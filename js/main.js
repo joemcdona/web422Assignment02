@@ -4,9 +4,7 @@
 *  No part of this assignment has been copied manually or electronically from any other source
 *  (including web sites) or distributed to other students.
 * 
-*  Name: Joseph McDonald Student ID: 060257144 Date: 02/02/23
-*
-*  Cyclic Link: 
+*  Name: Joseph McDonald Student ID: 060257144 Date: 02/03/23
 *
 ********************************************************************************/ 
 
