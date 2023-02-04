@@ -38,7 +38,7 @@ function loadMovieData(title = null)
                     <td>${mov.year}</td>
                     <td>${mov.title}</td>
                     <td>${mov.plot || "N/A"}</td>
-                    <td>${mov.rating || "N/A"}</td>
+                    <td>${mov.rated || "N/A"}</td>
                     <td>${Math.floor(mov.runtime / 60)}:${(mov.runtime % 60).toString().padStart(2, '0')}</td>
                 </tr>`
                 )).join('')}`;
